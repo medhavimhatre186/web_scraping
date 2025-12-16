@@ -35,4 +35,3 @@ The data is collected, cleaned, and saved in a structured CSV format for further
 4.Run graphs : python graphs.py
 
 
-## 📂 Project Structure
