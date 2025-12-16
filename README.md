@@ -31,6 +31,7 @@ The data is collected, cleaned, and saved in a structured CSV format for further
    ```bash
    cd Desktop/web_scraping
 3.Run the scraper:  python scrape_books.py
+
 4.Run graphs : python graphs.py
 
 
